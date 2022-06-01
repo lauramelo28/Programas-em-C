@@ -1,7 +1,7 @@
 /*
 15/05/22
-6∫ Lista de exercÌcios - Arquivos
-Aluna: Laura EnÌsia Rodrigues Melo
+6¬∫ Lista de exerc√≠cios - Arquivos
+Aluna: Laura En√≠sia Rodrigues Melo
 Turma: Eng. Software - Noite
 Professor: Roberto
 */
@@ -12,8 +12,8 @@ Professor: Roberto
 
 //double e float sao parecidos, so que o float sao 4 bytes e o double sao 8bytes
 //Tem q usar double em arquivo pq tem 8bytes
-//quando usa double o % È f
-//fmod È o resto e faz o casting de double para int
+//quando usa double o % √© f
+//fmod √© o resto e faz o casting de double para int
 
 void procedimentoA();
 void procedimentoB();
@@ -50,7 +50,7 @@ int main(){
 }
 
 void procedimentoA(){
-    //a) Gravar em um arquivo os 64 primeiros valores da sÈrie: 1 1 2 3 5 8 13 21 34
+    //a) Gravar em um arquivo os 64 primeiros valores da s√©rie: 1 1 2 3 5 8 13 21 34
     FILE *arquivo_Fibonacci;
 
     double a,b,auxiliar,i;
@@ -169,13 +169,13 @@ void procedimentoC(){
 
 
 void procedimentoD(){
-    /*d)Leia um conjunto de valores (flag -1) e verifique para cada valor se ele se encontra ou n„o no arquivo
-        gravado na letra a. Caso n„o exista dever· mostrar o valor anterior e o posterior a esse valor. Exemplo:
-        caso seja lido o valor 8 ñ dever· ser mostrada a informaÁ„o o valor 8 est· no arquivo na posiÁ„o 6, caso o
-        valor lido seja o 17 ñ dever· ser mostrada a informaÁ„o o valor 17 n„o est· no arquivo, valores mais
-        prÛximos: 13 e 21.
+    /*d)Leia um conjunto de valores (flag -1) e verifique para cada valor se ele se encontra ou n√£o no arquivo
+        gravado na letra a. Caso n√£o exista dever√° mostrar o valor anterior e o posterior a esse valor. Exemplo:
+        caso seja lido o valor 8 ‚Äì dever√° ser mostrada a informa√ß√£o o valor 8 est√° no arquivo na posi√ß√£o 6, caso o
+        valor lido seja o 17 ‚Äì dever√° ser mostrada a informa√ß√£o o valor 17 n√£o est√° no arquivo, valores mais
+        pr√≥ximos: 13 e 21.
 
-        TESTE     ENTRADA              SAÕDA
+        TESTE     ENTRADA              SA√çDA
                  3 10 21 -1         3 esta no arquivo, posicao 4
                                     10 nao esta no arquivo, valores mais proximos 8 e 13
                                     21 esta no arquivo, posicao 8
