@@ -1,7 +1,7 @@
 /*
 29/05/22
-7º Lista de exercícios - Modularização Revisão
-Aluna: Laura Enísia Rodrigues Melo
+7Âº Lista de exercÃ­cios - ModularizaÃ§Ã£o RevisÃ£o
+Aluna: Laura EnÃ­sia Rodrigues Melo
 Turma: Eng. Software - Noite
 Professor: Roberto
 */
